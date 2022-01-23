@@ -16,7 +16,8 @@ Note that you can easily change the script to include more file formats.
 
 
 HOW TO INSTALL openbabel:
-A lot of people face errors while installing openbabel on windows(especially). So...
+
+If you are facing an error while installing openbabel:
 
 1. Open cmd and run "pip install openbabel"  -> error?
 2. Then if you have openbabel gui already installed, open cmd in the installed folder and run "pip install -U openbabel" -> still no luck?......hmmm
