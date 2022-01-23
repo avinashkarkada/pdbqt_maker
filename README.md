@@ -11,6 +11,8 @@ HOW TO USE:
 4. Click on run
 5. Now you will have your output files in the folder
 
+Note that you can easily change the script to include more file formats.
+
 
 
 HOW TO INSTALL openbabel:
